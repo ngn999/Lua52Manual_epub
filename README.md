@@ -1,0 +1,1 @@
+[Lua 5.2 Manual](http://www.lua.org/manual/5.2/)
